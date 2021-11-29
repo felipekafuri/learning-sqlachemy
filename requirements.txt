@@ -1,0 +1,6 @@
+flask_restful
+flask
+flask_jwt_extended
+sqlite3
+Flask-SQLAlchemy
+alembic
